@@ -1,0 +1,4 @@
+1. From the attributes in all the datasets, 'ChallengeId' and 'WorkerId' was not used in building the Random Forest prediction models.
+
+2. WinnerOrQuitter attribute is the class variable which contain any of the three values: Winner, Quitter, Submitter
+
